@@ -1,0 +1,13 @@
+# Ignore compiled Java classes
+*.class
+
+# Ignore Maven build output
+/target/
+
+# Ignore Eclipse-specific configuration
+.classpath
+.project
+.settings/
+
+# Ignore Mac system files
+.DS_Store
